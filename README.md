@@ -3,6 +3,7 @@
 ### How to Run
 
 - Go to https://ksarvas.github.io/WebsiteOptimization/ to view the current build's site
+- Copy the URL above to https://developers.google.com/speed/pagespeed/insights/ to determine the pageSpeed score
 - Click on "Cam's Pizzeria" to go to the pizza.html page
 - Within pizza.html, open up dev tools to inspect the FPS while scrolling within a recorded Timeline
 - Within pizza.html, open up dev tools to inspect the time to resize pizzas metric
