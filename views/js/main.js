@@ -555,7 +555,7 @@ document.addEventListener('DOMContentLoaded', function() {
     elem.className = 'mover';
     // created a resized version of pizza.png so that the width and height didn't need to be changed each time
     // also took out the width in the mover class
-    elem.src = "images/pizza-scroll.png";
+    elem.src = "../images/pizza-scroll.png";
     elem.basicLeft = (i % cols) * s;
     elem.style.top = (Math.floor(i / cols) * s) + 'px';
     movingPizzas1.appendChild(elem);
